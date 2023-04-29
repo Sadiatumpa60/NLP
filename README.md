@@ -13,7 +13,16 @@ There are hundreds of characters and patterns you can learn and memorize with re
 
 In the following exercises, you'll use the `re` module to perform some simple activities, like splitting on a pattern or finding all patterns in a string. In addition to split and findall, search and match are also quite popular. You saw a simple match at the beginning of this video, and search is similar but doesn't require you to match the pattern from the beginning of the string. The syntax for the regex library is always to pass the pattern first, and the string second. Depending on the method, it may return an iterator, a new string or a match object. Here we see the re.split method will take a pattern for spaces and a string with some spaces and return a list object with the results of splitting on spaces. This can be used for tokenization, so you can preprocess text using regex while doing natural language processing.
 
+## What is tokenization?
 
+Tokenization is the process of transforming a string or document into smaller chunks, which we call tokens. This is usually one step in the process of preparing a text for natural language processing. There are many different theories and rules regarding tokenization, and you can create your own tokenization rules using regular expresssions, but normally tokenization will do things like break out words or sentences, often separate punctuation or you can even just tokenize parts of a string like separating all hashtags in a Tweet.
+
+## nltk library
+One library that is commonly used for simple tokenization is nltk, the natural language toolkit library. Here is a short example of using the word_tokenize method to break down a string into tokens. We can see from the result that words are separated and punctuation are individual tokens as well.
+
+## Other nltk tokenizers
+
+Beyond just tokenizing words, NLTK has plenty of other tokenizers you can use, including these ones you'll be working with in this chapter. The sent_tokenize function will split a document into individual sentences. The regexp_tokenize uses regular expressions to tokenize the string, giving you more granular control over the process. And the tweettokenizer does neat things like recognize hashtags, mentions and when you have too many punctuation symbols following a sentence. How convenient!!!
 
 
 
