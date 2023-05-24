@@ -14,7 +14,8 @@ In this project we are doing text analysis from different language. And then we 
 ## Result Analysis:
 ![Screenshot (819)](https://github.com/Sadiatumpa60/NLP/assets/131945108/023ed0f8-eb23-4dfc-b582-db4e674051c6)
 
-
+## Accuracy Bar Diagram:
+![Screenshot (820)](https://github.com/Sadiatumpa60/NLP/assets/131945108/6314b7cd-0a2c-4f52-b2f8-8f1bc88ad36a)
 
 
 
