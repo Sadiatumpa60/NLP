@@ -11,7 +11,8 @@ In this project we are doing text analysis from different language. And then we 
  https://www.kaggle.com/datasets/basilb2s/language-detection
 ![Screenshot (821)](https://github.com/Sadiatumpa60/NLP/assets/131945108/e170937f-00aa-449e-8770-86760a1962f8)
 
-
+## Result Analysis:
+![Screenshot (819)](https://github.com/Sadiatumpa60/NLP/assets/131945108/023ed0f8-eb23-4dfc-b582-db4e674051c6)
 
 
 
