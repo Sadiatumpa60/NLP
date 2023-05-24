@@ -1,7 +1,7 @@
-## Text Analysis from Natural Language Processing using different Machine Learning Models
+# Text Analysis from Natural Language Processing using different Machine Learning Models
 
 
-# What is Natural Language Processing?
+## What is Natural Language Processing?
 Natural language processing is a massive field of study and actively used practice which aims to make sense of language using statistics and computers. In this course, you will learn some of the basics of NLP which will help you move from simple to more difficult and advanced topics. Even though this is the first course, you will still get some exposure to the challenges of the field such as topic identification and text classification. Some interesting NLP areas you might have heard about are: topic identification, chatbots, text classification, translation, sentiment analysis. There are also many more! You will learn the fundamentals of some of these topics as we move through the course.
 
 ## What exactly are regular expressions?
