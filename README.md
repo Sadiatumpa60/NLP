@@ -9,7 +9,7 @@ In this project we are doing text analysis from different language. And then we 
 
 ## Data Set View:
  https://www.kaggle.com/datasets/basilb2s/language-detection
-
+![Screenshot (821)](https://github.com/Sadiatumpa60/NLP/assets/131945108/e170937f-00aa-449e-8770-86760a1962f8)
 
 
 
